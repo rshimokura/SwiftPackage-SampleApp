@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sample-swiftpackage",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rshimokura/Sample-SwiftPackage",
+      "state" : {
+        "revision" : "00ebad4e5085e2612b6dd9ede1369e113c2c9456",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
